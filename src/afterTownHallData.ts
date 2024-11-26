@@ -97,11 +97,6 @@ const data = {
   ],
   breakoutRooms: [
     {
-      name: 'Clarity: Cardano Governance Tooling',
-      host: 'Logan Panchot',
-      description: 'In this room we will present and discuss Claritys Fund13 proposals and roadmap.',
-    },
-    {
       name: 'Townhall Check-In',
       host: 'Lidonation',
       description:
